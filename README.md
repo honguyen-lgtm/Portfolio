@@ -57,8 +57,4 @@ The analysis compared the total cost of the same six grocery products across fiv
 
 These results reflect fictional sample pricing and should not be interpreted as actual retail price comparisons.
 
-## Data Visualization
 
-![Grocery Basket Price Comparison](grocery_comparison.png)
-
-The horizontal bar
